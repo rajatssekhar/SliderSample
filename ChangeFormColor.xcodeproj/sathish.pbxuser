@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ChangeFormColor */ = {
+		activeExec = 0;
+		executables = (
+			B8EF322F12DB4A77005C31DD /* ChangeFormColor */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ChangeFormColorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 481}}";
+			sepNavSelRange = "{0, 931}";
+			sepNavVisRange = "{62, 863}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ChangeFormColorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1911}}";
+			sepNavSelRange = "{1246, 0}";
+			sepNavVisRange = "{2945, 778}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B8EF322F12DB4A77005C31DD /* ChangeFormColor */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ChangeFormColor */;
+		codeSenseManager = B8EF323A12DB4A81005C31DD /* Code sense */;
+		executables = (
+			B8EF322F12DB4A77005C31DD /* ChangeFormColor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321735201;
+			PBXWorkspaceStateSaveDate = 321735201;
+		};
+		perUserProjectItems = {
+			B81582B012F9C4B2007AE28D /* PBXTextBookmark */ = B81582B012F9C4B2007AE28D /* PBXTextBookmark */;
+			B8554732132D4A6600C2FBEC /* PBXTextBookmark */ = B8554732132D4A6600C2FBEC /* PBXTextBookmark */;
+			B8C0F768131AA281007397E8 /* PBXTextBookmark */ = B8C0F768131AA281007397E8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B8EF323912DB4A81005C31DD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B81582B012F9C4B2007AE28D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChangeFormColorViewController.h */;
+		name = "ChangeFormColorViewController.h: 1";
+		rLen = 931;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 62;
+	};
+	B8554732132D4A6600C2FBEC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChangeFormColorViewController.m */;
+		name = "ChangeFormColorViewController.m: 53";
+		rLen = 0;
+		rLoc = 1246;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 2945;
+	};
+	B8C0F768131AA281007397E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChangeFormColorViewController.m */;
+		name = "ChangeFormColorViewController.m: 53";
+		rLen = 0;
+		rLoc = 1246;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 2945;
+	};
+	B8EF322F12DB4A77005C31DD /* ChangeFormColor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ChangeFormColor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B8EF323912DB4A81005C31DD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B8EF323A12DB4A81005C31DD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

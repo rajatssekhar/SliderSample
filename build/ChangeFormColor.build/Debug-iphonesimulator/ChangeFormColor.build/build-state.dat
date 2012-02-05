@@ -1,0 +1,441 @@
+TChangeFormColor
+v7
+r0
+t320512631.704514
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist" ChangeFormColor-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/ChangeFormColorViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch.gch ChangeFormColor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM" "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor"
+cTouch "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/ChangeFormColorViewController.xib
+c000000004D2B22CD0000000000007752
+t1294672589
+s30546
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/ChangeFormColor_Prefix.pch
+c000000004D2B12F700000000000000C7
+t1294668535
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.h
+c000000004D2B12F70000000000000207
+t1294668535
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m
+c000000004D2B12F70000000000000AB5
+t1294668535
+s2741
+i"ChangeFormColorAppDelegate.h"
+i"ChangeFormColorViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.h
+c000000004D2B169200000000000003A3
+t1294669458
+s931
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m
+c000000004D2B29990000000000000EAA
+t1294674329
+s3754
+i"ChangeFormColorViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/MainWindow.xib
+c000000004D2B12F70000000000004E89
+t1294668535
+s20105
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColor.LinkFileList
+c000000004D3F9B6D00000000000001F7
+t1296014189
+s503
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o
+t1296014190
+s52100
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o
+t1296014190
+s54172
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o
+t1296014190
+s6332
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app
+t1296014191
+s238
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM
+t1296014190
+s102
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor
+t1296014190
+s25184
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColorViewController.nib
+t1294672594
+s2166
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist
+t1294670428
+s629
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/MainWindow.nib
+t1294670428
+s1139
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/PkgInfo
+t1294670428
+s8
+
+N/Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m
+c000000004D2B12F70000000000000169
+t1294668535
+s361
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColorViewController.xib
+c000000004D2B22CD0000000000007752
+t1294672589
+s30546
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColor_Prefix.pch
+c000000004D2B12F700000000000000C7
+t1294668535
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.h
+c000000004D2B12F70000000000000207
+t1294668535
+s519
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m
+c000000004D2B12F70000000000000AB5
+t1294668535
+s2741
+i"ChangeFormColorAppDelegate.h"
+i"ChangeFormColorViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.h
+c000000004D2B169200000000000003A3
+t1294669458
+s931
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.m
+c000000004D2B29990000000000000EAA
+t1294674329
+s3754
+i"ChangeFormColorViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/MainWindow.xib
+c000000004D2B12F70000000000004E89
+t1294668535
+s20105
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColor.LinkFileList
+c000000004D2B1A5C0000000000000209
+t1294670428
+s521
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o
+t1294670429
+s52112
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o
+t1294674347
+s54184
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o
+t1294670429
+s6344
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app
+t1294674347
+s238
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM
+t1294674347
+s102
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor
+t1294674347
+s25220
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColorViewController.nib
+t1294672594
+s2166
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist
+t1294670428
+s629
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/MainWindow.nib
+t1294670428
+s1139
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/PkgInfo
+t1294670428
+s8
+
+N/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/main.m
+c000000004D2B12F70000000000000169
+t1294668535
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch.gch
+t1294670429
+s15453392
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch.gch
+t1296014190
+s15453392
+
+NChangeFormColor-Info.plist
+c000000004D2B12F7000000000000038D
+t1294668535
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320512631#320512631#0(0"0(0#1#0"8622003488#0"0#
+
+CCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317706990.791356
+e317706990.884238
+r1
+xCompileC
+xbuild/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m317706990#317706990#0(0"0(0#0#89"/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m8604216864#2302"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o"0#
+
+CCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316363229.683655
+e316363229.775600
+r1
+xCompileC
+xbuild/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m316363229#316363229#0(0"0(0#0#95"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m8595817472#2368"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorAppDelegate.m" -o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorAppDelegate.o"0#
+
+CCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317706990.850614
+e317706990.957032
+r1
+xCompileC
+xbuild/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m317706990#317706990#0(0"0(0#0#92"/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m8599193440#2308"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/Classes/ChangeFormColorViewController.m" -o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o"0#
+
+CCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316367147.219313
+e316367147.372594
+r1
+xCompileC
+xbuild/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.m316367147#316367147#0(0"0(0#0#98"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.m8621240544#2374"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/Classes/ChangeFormColorViewController.m" -o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColorViewController.o"0#
+
+CCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317706990.790150
+e317706990.850507
+r1
+xCompileC
+xbuild/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m317706990#317706990#0(0"0(0#0#59"/Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m8613649472#2250"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/main.m" -o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316363229.682554
+e316363229.739600
+r1
+xCompileC
+xbuild/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/main.m316363229#316363229#0(0"0(0#0#65"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/main.m8618991808#2316"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/main.m" -o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/ChangeFormColorViewController.xib"
+r0
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColorViewController.xib"
+s316365394.227365
+e316365394.644761
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColorViewController.xib
+lSLF07#2@44"CompileXIB ChangeFormColorViewController.xib316365394#316365394#0(0"0(0#0#92"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColorViewController.xib8618379264#682"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColorViewController.nib" "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColorViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/MainWindow.xib"
+s316363228.461614
+e316363228.886656
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316363228#316363228#0(0"0(0#0#73"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/MainWindow.xib8617051584#644"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM" "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor"
+s317706990.981841
+e317706990.998166
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/ChangeFormColor.app.dSYM build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor317706990#317706990#0(0"0(0#0#116"/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor8614484128#455"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor" -o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor"
+s316367147.400674
+e316367147.419429
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/ChangeFormColor.app.dSYM build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor316367147#316367147#0(0"0(0#0#122"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor8621691136#473"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor" -o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor" normal i386
+s317706990.957123
+e317706990.981742
+r1
+xLd
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor
+xnormal
+xi386
+lSLF07#2@121"Link /Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor317706990#317706990#0(0"0(0#0#0"8615394784#1020"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColor.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor"0#
+
+CLd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor" normal i386
+s316367147.372684
+e316367147.400560
+r1
+xLd
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor
+xnormal
+xi386
+lSLF07#2@127"Link /Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor316367147#316367147#0(0"0(0#0#0"8619470816#1050"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/Objects-normal/i386/ChangeFormColor.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/ChangeFormColor"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist" ChangeFormColor-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist" ChangeFormColor-Info.plist
+s316363228.454199
+e316363228.461517
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist
+xChangeFormColor-Info.plist
+lSLF07#2@34"Process ChangeFormColor-Info.plist316363228#316363228#0(0"0(0#0#85"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColor-Info.plist8617491584#569"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ChangeFormColor-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch.gch ChangeFormColor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316363228.934253
+e316363229.682453
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch.gch
+xChangeFormColor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile ChangeFormColor_Prefix.pch316363228#316363229#0(0"0(0#0#85"/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColor_Prefix.pch8620796512#2178"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/ChangeFormColor_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-acarbwfhfmymjrggmsbqxmgssgem/ChangeFormColor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch.gch ChangeFormColor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317706989.933821
+e317706990.790042
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch.gch
+xChangeFormColor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile ChangeFormColor_Prefix.pch317706989#317706990#0(0"0(0#0#79"/Users/sathish/Documents/iPhone Apps/ChangeFormColor/ChangeFormColor_Prefix.pch8614973632#2118"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/ChangeFormColor-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/ChangeFormColor.build/Debug-iphonesimulator/ChangeFormColor.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/ChangeFormColor_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChangeFormColor_Prefix-dhzmbpdjuuuqbxfvfqxydourcnjd/ChangeFormColor_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app"
+s317706990.998258
+e317706991.000856
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app
+lSLF07#2@106"Touch /Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app317706990#317706991#0(0"0(0#0#0"8613911200#318"    cd "/Users/sathish/Documents/iPhone Apps/ChangeFormColor"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Apps/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app"0#
+
+CTouch "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app"
+s316367147.419518
+e316367147.422145
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app
+lSLF07#2@112"Touch /Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app316367147#316367147#0(0"0(0#0#0"8620813376#330"    cd "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Mobile App/ChangeFormColor/build/Debug-iphonesimulator/ChangeFormColor.app"0#
+
